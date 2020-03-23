@@ -1,5 +1,5 @@
 <template>
-    <h1> Olá Mundo </h1>
+    <h1> Olá Mundo 2</h1>
 </template>
 
 <script>
