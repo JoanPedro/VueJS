@@ -23,7 +23,7 @@ export default {
 
 <style>
 body { 
-	background: turquoise;
+	background-color: turquoise;
 }
 
 </style>
