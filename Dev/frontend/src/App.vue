@@ -1,17 +1,18 @@
 <template>
 	<div id="app">
+		<ShoppingList />
 	</div>
 </template>
 
 <script>
+import ShoppingList from './components/ShoppingList'
 export default {
 	name: "App",
-	components: '',
+	components: {ShoppingList},
 	computed: '',
 	data: function() {
-        return {
-
-        }
+		return {
+		}
 	},
 	methods: {
 	},
@@ -21,5 +22,5 @@ export default {
 </script>
 
 <style>
-x'
+
 </style>
