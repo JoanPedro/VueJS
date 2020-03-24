@@ -42,25 +42,6 @@
 				</div>
 			</b-col>
 		</b-row>
-		<b-row>
-			<b-col md="12" sm="12">
-				<div class = "shopping-list"> 
-					<b-row>
-						<b-col md="6" sm="6">
-							<h1> {{ searching.toLocaleUpperCase() }} </h1>
-						</b-col>
-						<b-col md="6" sm="6">
-							<b-input type="text" placeholder="Name to filter" v-model="query"></b-input>
-						</b-col>
-					</b-row>
-					<ul> 
-						<li v-for="query in items" v-bind:key="query"> 
-							{{ query }} 
-						</li>
-					</ul>
-				</div>
-			</b-col>
-		</b-row>
 	</b-container>
 </template>
 
