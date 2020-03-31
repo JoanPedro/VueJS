@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto visa implementar uma lista Dinâmica Utilizando Vue.
 
-[](.github/ShoppingList.gif)
+![](.github/ShoppingList.gif)
 ## 🤔 Como contribuir
 
 - Faça um fork desse repositório;
